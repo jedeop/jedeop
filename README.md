@@ -1,13 +1,12 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jedeop&layout=compact">
-
 ### Hi there, I'm Jedeop 👋
 
 I'm a middle school student from South Korea.  
 I love learning new things and making what I imagined with programming.
 I love open-source, too.
 
-
 ### Languages and Tools
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jedeop&layout=compact">
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
