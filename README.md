@@ -19,6 +19,12 @@ I love open-source, too.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+
+### How to reach me
+[![me@jedeop.dev](https://img.shields.io/badge/me@jedeop.dev-0A84FF?style=flat-square&logo=Thunderbird&logoColor=white)](mailto:me@jedeop.dev)
+![제덮#4817](https://img.shields.io/badge/%EC%A0%9C%EB%8D%AE%234817-7289DA?style=flat-square&logo=Discord&logoColor=white)
 
 <!--
 **jedeop/jedeop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
