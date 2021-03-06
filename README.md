@@ -5,7 +5,6 @@ I love learning new things and making what I imagined with programming.
 I love open-source, too.
 
 ### 🔭 I love to use 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jedeop&layout=compact">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
@@ -14,6 +13,8 @@ I love open-source, too.
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
+
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jedeop&layout=compact)
 
 <!--
 **jedeop/jedeop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
