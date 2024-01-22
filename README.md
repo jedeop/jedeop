@@ -1,10 +1,9 @@
-### Hi there, I'm Jedeop 👋
+### Hi there, I'm Jaewon Park a.k.a. Jedeop 👋
 
-I'm a high school student from South Korea.  
-I love learning new things and making what I imagined with programming.
-I love open-source, too.
+- I aspire to become a software engineer who makes a positive impact on the world by researching new technologies and services.  
+- I love learning new things and making what I imagined with programming. I love open-source, too.
 
-### 🔭 I love to use 
+### 🔭 I'm interested in
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white)
@@ -12,7 +11,8 @@ I love open-source, too.
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000000?style=flat-square)
+![Computer Science](https://img.shields.io/badge/Computer%20Science-000000?style=flat-square)
 
 <!--
 **jedeop/jedeop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
